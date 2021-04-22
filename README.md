@@ -2,7 +2,7 @@
 
   Now-a-days, Online Social Networking sites are an important part of human society. In other way a person maintains a social networking site account which is then used for the following purposes like building relations, for business, exchange of data etc. The use of OSN’s is therefore tremendously increasing day by day and its demand for concentration over protection of private information of user’s, their likes and dislikes etc. There are different filtering criteria provided by various OSN’s but the role of the user to prevent his/her privacy is very less with the help of those criteria. This paper represents a model that helps to allow the user to take over the control of their profile’s and walls. The key parameters of the proposal illustrate that the message posted on user wall’s will be filtered for unwanted content in any form and type and will be posted with the users consent only. The feasibility of this model is presented considering OSN’s scenarios.
 
-<!--
+<!-- 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -55,15 +55,13 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Add additional notes about how to deploy this on a live system -->
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Flask](https://github.com/pallets/flask) - The web framework used
 
-## Versioning
+<!-- ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
